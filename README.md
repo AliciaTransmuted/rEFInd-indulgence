@@ -1,7 +1,7 @@
 ![Screenshot](https://i.imgur.com/nKtPOUp.png)
 
 # rEFInd-indulgence
-rEFInd-indulgence is a luxurious soft leather icon theme for the rEFInd UEFI boot manager
+rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
 
 [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI systems and scans for kernels & EFI at boot.
 
