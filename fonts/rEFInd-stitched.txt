@@ -1,0 +1,20 @@
+-------------------------------
+rEFInd-stitched font
+September 12, 2018
+AliciaTransmuted
+https://www.deviantart.com/aliciatransmuted
+-------------------------------
+
+The included rEFInd-stitched font is a hand drawn font. Finding a suitable handwritten monospaced font, also called a fixed-pitch, fixed-width, or non-proportional font is quite a challenge. Fortunatly, it was pretty straight forward to use an existing rEFInd png font as a base for rEFInd-stitched.png
+
+Feel free to use it as a base for other rEFInd theme projects. I recommend that you use rEFInd-stitched-112.png as your base file to allow for details, and then scale it down to size.
+1. Import into Gimp, Krita, Inkscape, etc.
+2. Reduce opacity of original layer to about 50%.
+3. Create a transparent layer above the current layer.
+4. Increase magnification to about 400%.
+5. Hand trace your font over the original.
+   Using a tablet will, no doubt, give you much cleaner and polished results.
+   I did mine with a mouse in Gimp 2.10.6... at 400%, it's pretty easy.
+6. Play around with different brushes to give you different desired effects.
+   e.g. chalk, felt pen, dry erase marker, etc.
+   Sometimes a low tech solution gives you exactly what you wanted...
