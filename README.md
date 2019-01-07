@@ -40,3 +40,5 @@ rEFInd-indulgence notes
 September 12, 2018: Initial release of rEFInd-indulgence to DeviantArt.
 
 December 30, 2018: rEFInd-indulgence theme uploaded to github.
+
+January 6, 2018: Added icon for Sparky Linux
