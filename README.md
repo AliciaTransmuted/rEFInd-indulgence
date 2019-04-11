@@ -44,3 +44,5 @@ December 30, 2018: rEFInd-indulgence theme uploaded to github.
 January 6, 2019: Added icons for Sparky Linux, GameDrift, and Lakka
 
 March 30, 2019: Added icons for Pop OS and Pisi Linux
+
+April 10, 2019: Added icons for Parrot Sec OS, PureOS, and Qubes OS
