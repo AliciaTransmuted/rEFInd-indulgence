@@ -60,5 +60,5 @@ February 14,2024: Added image of common folder setup for rEFInd using haiku_load
 
 *** Also note: You should update to the latest version of the 64 bit Haiku installer before you attempt installation.
 
-*** Please note: Installation will NOT work with the 32 bit installer on a UEFI device.
+*** Please note: Installation will NOT work with the 32 bit installer of Haiku on a UEFI device.
 
